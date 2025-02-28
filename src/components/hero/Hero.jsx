@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Navbar from "./Navbar";
+import Navbar from "../navbar/Navbar";
 
 const Hero = ({aboutRef,recipesRef,menuRef,contactRef,featuresRef}) => {
   const scrollToSection = (ref) => {

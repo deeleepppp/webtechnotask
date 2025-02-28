@@ -1,7 +1,7 @@
 import React from 'react'
-import Gallery from './Gallery.jsx'
-import NewsLetter from './NewsLetter.jsx'
-import Footer from './Footer.jsx'
+import Gallery from './gallery/Gallery.jsx'
+import NewsLetter from './newsLetter/NewsLetter.jsx'
+import Footer from './footer/Footer.jsx'
 
 const Gnf = ({menuRef,aboutRef}) => {
   return (

@@ -1,8 +1,8 @@
 import React from 'react'
-import Hero from './Hero'
-import Features from './Features'
-import Experts from './Experts'
-import MeetExperts from './MeetExperts'
+import Hero from './hero/Hero'
+import Features from './features/Features'
+import Experts from './experts/Experts'
+import MeetExperts from './meetExperts/MeetExperts'
 import Gnf from './Gnf'
 
 const Combination = ({menuRef,featuresRef,aboutRef,contactRef,recipesRef}) => {
