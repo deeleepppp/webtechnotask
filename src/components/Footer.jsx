@@ -12,7 +12,7 @@ const Footer = () => {
             <div className="flex items-center mb-4">
               <div className="h-6 w-6 text-red-500">
                 <img
-                  src="/icons/logo.svg"
+                  src="/images/icon.png"
                   alt="Logo"
                   className="h-10 w-10 text-red-500"
                 />
