@@ -13,18 +13,18 @@ const Gallery = ({menuRef}) => {
               <div  className="overflow-hidden lg:ml-110 mx-auto  rounded-xl flex gap-2">
                 <div className=' h-80 w-40  '>
                     <div className=' h-54 w-40 '>
-                       <img className='object-cover rounded-xl' src="public/images/foodone.jpg" alt="Salad dish" />
+                       <img className='object-cover rounded-xl' src="/images/foodone.jpg" alt="Salad dish" />
                     </div>
                     <div  className='h-20 w-40'>
-                       <img className='object-cover rounded-xl' src="public/images/foodtwo.jpg" alt="Vegetable stir fry" />
+                       <img className='object-cover rounded-xl' src="/images/foodtwo.jpg" alt="Vegetable stir fry" />
                     </div>
                 </div>
                 <div>
                       <div className='h-20 mb-8 w-40'>
-                            <img className='object-cover rounded-xl' src="public/images/foodthree.jpg" alt="Pasta dish" />
+                            <img className='object-cover rounded-xl' src="/images/foodthree.jpg" alt="Pasta dish" />
                       </div>
                       <div className= 'h-60 w-40 '>
-                            <img className='object-cover rounded-xl' src="public/images/foodfour.jpg" alt="Pizza" />
+                            <img className='object-cover rounded-xl' src="/images/foodfour.jpg" alt="Pizza" />
                       </div>
                
                 </div>

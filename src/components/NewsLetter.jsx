@@ -4,7 +4,7 @@ import { LuSendHorizontal } from "react-icons/lu";
 const NewsLetter = ({aboutRef}) => {
   return (
     <section ref={aboutRef} className="px-4 py-12 md:px-8  lg:px-16 my-16">
-        <img src="public/images/soup.png" className='absolute right-4 z-1 h-20 w-20 lg:right-10 lg:h-60 lg:w-60' alt="" />
+        <img src="/images/soup.png" className='absolute right-4 z-1 h-20 w-20 lg:right-10 lg:h-60 lg:w-60' alt="" />
       <div className="bg-[#DD6952] lg:h-70 rounded-l lg:rounded-tr-full p-8  md:p-12 relative overflow-hidden">
         <div className="absolute top-4 right-4 w-6 h-6 rounded-full bg-yellow-400"></div>
         <div className="absolute bottom-4 left-4 w-4 h-4 rounded-full bg-blue-500"></div>

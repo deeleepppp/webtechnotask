@@ -49,7 +49,7 @@ const Hero = ({aboutRef,recipesRef,menuRef,contactRef,featuresRef}) => {
         <div className="md:w-1/2 mt-10 md:mt-0 relative">
           <div className="relative z-10 ">
             <img
-              src="public/images/banner-image.png"
+              src="/images/banner-image.png"
               alt="Chef cooking"
               width={400}
               height={500}

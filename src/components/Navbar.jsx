@@ -14,7 +14,7 @@ export default function Navbar({aboutRef,recipesRef,menuRef,contactRef}) {
     
       <div className="flex items-center">
         <img
-          src="public/icons/logo.svg"
+          src="/icons/logo.svg"
           alt="Logo"
           className="h-10 w-10 text-red-500"
         />

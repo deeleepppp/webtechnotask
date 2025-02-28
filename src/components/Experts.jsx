@@ -8,7 +8,7 @@ const Experts = ({recipesRef}) => {
           <div className="relative">
             <div className="absolute -z-10 w-64 h-64 rounded-full bg-white/20 top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2"></div>
             <img
-              src="public/images/cook.png"
+              src="/images/cook.png"
               alt="Chef with food"
               width={450}
               height={550}

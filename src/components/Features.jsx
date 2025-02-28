@@ -3,22 +3,22 @@ import React from "react";
 const Features = ({featuresRef}) => {
   const features = [
     {
-      icon: "public/icons/featureOne.svg",
+      icon: "/icons/featureOne.svg",
       title: "Master our kitchen",
       description: "Learn to cook like a professional with our expert guidance",
     },
     {
-      icon: "public/icons/featureTwo.svg",
+      icon: "/icons/featureTwo.svg",
       title: "Cook like a pro",
       description: "Discover techniques used by top chefs around the world",
     },
     {
-      icon: "public/icons/featureThree.svg",
+      icon: "/icons/featureThree.svg",
       title: "Save time",
       description: "Quick and efficient recipes that don't compromise on taste",
     },
     {
-      icon: "public/icons/featureFour.svg",
+      icon: "/icons/featureFour.svg",
       title: "Feel food",
       description: "Experience the joy of creating delicious meals at home",
     },
